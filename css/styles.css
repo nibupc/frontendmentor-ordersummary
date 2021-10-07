@@ -12,11 +12,24 @@ body {
    Weights: 500, 700, 900 */
 }
 
+h1{
+  font-size: 30px;
+font-weight: 900;
+
+}
+
+h2{
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: 700;
+
+}
 
 .cancelordertext{
   padding: 5px 0px 25px 0px;
   font-weight: bold;
   color: hsl(224, 23%, 55%);
+  font-weight: 300;
 }
 
 .centralblock{
@@ -41,6 +54,11 @@ body {
   margin: 20px;
   font-size: 15px;
 
+}
+
+.payment-button:hover {
+  text-decoration: none;
+  background-color: hsl(233, 100%, 78%) ;
 }
 
 .div-plan-details{
@@ -68,6 +86,7 @@ margin: 0;
 
 .changeplan{
   float: right;
+  margin-right: 10%;
 }
 
 .promo-text{
