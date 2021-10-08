@@ -8,6 +8,8 @@ body {
   background-repeat: no-repeat;
   background-color: hsl(225, 100%, 94%);
   background-size: contain;
+  font-family: "Red Hat Display", sans-serif;
+
   /* font-family: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
    Weights: 500, 700, 900 */
 }
